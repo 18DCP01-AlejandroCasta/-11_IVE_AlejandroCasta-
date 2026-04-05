@@ -1,0 +1,13 @@
+Algoritmo lecc3_lecc20
+	Definir nota Como Real
+    
+    Escribir "Ingrese la calificación:"
+    Leer nota
+    
+    Si nota >= 70 Entonces
+        Escribir "Aprobado"
+    Sino
+        Escribir "Reprobado"
+    FinSi
+	
+FinAlgoritmo
